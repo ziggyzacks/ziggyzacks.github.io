@@ -8,7 +8,8 @@ google_analytics: UA-109502885
 
 # for when I'm dumb with the date
 future: true
-
+# theme
+theme: jekyll-theme-cayman
 author :
   name : Ziggy Zacks
   email : zigzacks@gmail.com
