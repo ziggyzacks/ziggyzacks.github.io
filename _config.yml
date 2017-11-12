@@ -1,16 +1,15 @@
 title: zigdata.org
-description: data w/zig
+tagline: data w/zig
 show_downloads: true
 
 url: "https://ziggyzacks.github.io"
 
 google_analytics: UA-109502885
-# cayman-blog date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-cayman-blog:
-  date_format: "%b %-d, %Y"
-
-theme: # leave it empty
 
 # for when I'm dumb with the date
 future: true
+
+author :
+  name : Ziggy Zacks
+  email : zigzacks@gmail.com
+  github : ziggyzacks
