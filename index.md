@@ -1,7 +1,7 @@
 ---
-layout: home
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
 ---
 
-zigdata.org is a place where I will discuss topics in computer science and machine learning using helpful but not always entirely correct abstractions and analogies. 
-You are warned. 
-Now let's have some fun.
